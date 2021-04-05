@@ -1,7 +1,8 @@
 @extends('en.layout.header-footer')
-@section('container')
+@section('title', 'Homepage')
 @section('nav-home', 'current')
 @section('nav-english', 'current')
+@section('container')
 <!-- Content -->
 <div class="content clearfix">
   <!-- Fullscreen Slider Section -->
@@ -14,7 +15,7 @@
               <div class="row">
                 <div class="column width-6 offset-0">
                   <div class="tms-caption text-line-vertical" data-animate-in="preset:slideInUpLong;duration:1000ms;" data-no-scale>
-                    <h1 class="title-large color-white lspacing-small mb-10 text">
+                    <h1 class="title-medium color-white lspacing-small mb-10 text">
                       <strong>We give additional value by shaping the light
                         into your property</strong>
                     </h1>
@@ -36,7 +37,7 @@
               <div class="row">
                 <div class="column width-6 offset-0">
                   <div class="tms-caption text-line-vertical" data-animate-in="preset:slideInUpLong;duration:1000ms;" data-no-scale>
-                    <h1 class="title-xlarge color-white lspacing-small mb-10 text">
+                    <h1 class="title-medium color-white lspacing-small mb-10 text">
                       <strong>Join Us and<br />Be Part of Our Team</strong>
                     </h1>
                     <p class="lead color-white text-uppercase no-margin-bottom">
@@ -54,9 +55,9 @@
           <div class="tms-content">
             <div class="tms-content-inner left v-align-middle">
               <div class="row">
-                <div class="column width-7 offset-0">
+                <div class="column width-6 offset-0">
                   <div class="tms-caption text-line-vertical" data-animate-in="preset:slideInUpLong;duration:1000ms;" data-no-scale>
-                    <h1 class="title-xlarge color-white lspacing-small mb-10 text">
+                    <h1 class="title-medium color-white lspacing-small mb-10 text">
                       <strong>Have a bleesed<br />Good Friday</strong>
                     </h1>
                     <p class="lead color-white text no-margin-bottom">

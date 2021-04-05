@@ -1,4 +1,5 @@
 @extends('en.layout.header-footer')
+@section('title', 'About Us')
 @section('nav-about_us', 'current')
 @section('nav-our_philosophy', 'current')
 @section('nav-english', 'current')

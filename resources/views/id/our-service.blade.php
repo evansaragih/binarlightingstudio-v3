@@ -1,4 +1,5 @@
 @extends('id.layout.header-footer')
+@section('title', 'Layanan Kami')
 @section('nav-services', 'current')
 @section('nav-our_services', 'current')
 @section('nav-indonesian', 'current')

@@ -1,4 +1,5 @@
 @extends('id.layout.header-footer')
+@section('title', 'Rekrutmen Pegawai')
 @section('nav-careers', 'current')
 @section('nav-junior_architect', 'current')
 @section('nav-indonesian', 'current')

@@ -1,4 +1,5 @@
 @extends('en.layout.header-footer')
+@section('title', 'Our Studio')
 @section('nav-about_us', 'current')
 @section('nav-our_studio', 'current')
 @section('container')

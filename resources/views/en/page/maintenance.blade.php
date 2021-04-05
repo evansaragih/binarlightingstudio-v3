@@ -1,4 +1,5 @@
 @extends('en.layout.maintenance')
+@section('title', 'Maintenance')
 @section('nav-english', 'current')
 @section('container')
 <!-- Content -->

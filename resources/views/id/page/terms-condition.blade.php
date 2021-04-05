@@ -1,4 +1,5 @@
 @extends('id.layout.maintenance')
+@section('title', 'Syarat dan Ketentuan')
 @section('nav-indonesian', 'current')
 @section('container')
 <!-- Content -->

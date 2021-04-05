@@ -55,16 +55,17 @@ class Contact extends Controller
 
                 toastr()->success('Thank You, we already added your email');
 
-                return view('en/page/maintenance');
+                return view('en/homepage');
             } catch (Exception $e) {
                 toastr()->warning('Sorry, we cannot added you');
-                return view('en/page/maintenance');
+                return view('en/homepage');
                 // echo 'Message could not be sent.';
                 // echo 'Mailer Error: ' . $mail->ErrorInfo;
             }
         } else {
-            toastr()->error('status_warning', 'Your Name, Email, and Message Are Required');
-            return view('/');
+            toastr()->error('Failed', 'Your Email Are Required');
+            $progress = '27';
+            return view('en/page/maintenance', ['progress' => $progress]);
         }
     }
 }

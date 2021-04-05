@@ -4,20 +4,26 @@
 <head>
     <meta charset="UTF-8" />
     <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0" name="viewport" />
-    <meta name="twitter:widgets:theme" content="light" />
-    <meta property="og:title" content="Your-Title-Here" />
+    <meta property="og:title" content="BINAR a Lighting Studio - BALI Lighting Consultant" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="Your-Image-Url" />
-    <meta property="og:description" content="Your-Page-Description" />
-    <title>BINAR a Lighting Studio - Lighting Consultant</title>
+    <meta property="og:image" content="https://binarlightingstudio.com/assets/img/logo/logo_binar-colour.png" />
+    <meta property="og:description" content="Binar is an lighting consultant. We assist our client in aligning their architectural, interior and landscape design concepts with the right lighting design to create differentiation or value added." />
+    <meta name="google-site-verification" content="sOO8Y1Q5NBD0eV2h60tJF8bd-oB9p2R8AicU_xZK8dI" />
+    <meta name="msvalidate.01" content="9A2887BC5A505F3B4A7C9182A1CA13DC" />
+    <meta name="p:domain_verify" content="f63adb9f42d291ab875a381e221c316a" />
+    <meta name="author" content="BINAR A LIGHTING STUDIO" />
+    <title>@yield('title') | BINAR a Lighting Studio - Lighting Consultant</title>
     <link rel="shortcut icon" type="image/x-icon" href="/assets/img/logo/icon-warna.png" />
 
     <!-- Font -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700%7CLato:300,400,700" rel="stylesheet" type="text/css" />
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+    </style>
 
     <!-- Css -->
     <link rel="stylesheet" href="/assets/css/core.min.css" />
     <link rel="stylesheet" href="/assets/css/skin.css" />
+    @toastr_css
 
     <!--[if lt IE 9]>
       <script
@@ -42,7 +48,7 @@
                 <nav class="side-navigation">
                     <ul>
                         <li class="@yield('nav-home')">
-                            <a href="{{ url('/id') }}" class="contains-sub-menu">Beranda</a>
+                            <a href="{{ url('/id') }}">Beranda</a>
                         </li>
                         <li class="@yield('nav-careers')">
                             <a href="#" class="contains-sub-menu">Karir</a>
@@ -73,7 +79,7 @@
                             </ul>
                         </li>
                         <li class="@yield('nav-projects')">
-                            <a href="{{ url('/id/projects')}}" class="contains-sub-menu">Proyek-Proyek</a>
+                            <a href="{{ url('/id/projects')}}">Proyek-Proyek</a>
                         </li>
                         <li class="@yield('nav-services')">
                             <a href="#" class="contains-sub-menu">Layanan</a>
@@ -87,7 +93,7 @@
                             </ul>
                         </li>
                         <li class="@yield('nav-lighting101')">
-                            <a href="{{ url('/id/lighting101')}}" class="contains-sub-menu">Lighting 101</a>
+                            <a href="{{ url('/id/lighting101')}}">Lighting 101</a>
                         </li>
                         <li>
                             <a class="contains-sub-menu">Bahasa</a>
@@ -305,10 +311,28 @@
         </div>
     </div>
 
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+        (function() {
+            var s1 = document.createElement("script"),
+                s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/602cc31f9c4f165d47c41088/1eundkcqk';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
+
     <!-- Js -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="http://maps.googleapis.com/maps/api/js?v=3"></script>
     <script src="/assets/js/timber.master.min.js"></script>
+    @toastr_js
+    @toastr_render
 </body>
 
 </html>

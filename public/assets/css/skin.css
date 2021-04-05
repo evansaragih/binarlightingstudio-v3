@@ -1749,7 +1749,7 @@ body,
 /* Mobile Slider & Parallax */
 .mobile .featured-media,
 .mobile .parallax.fixed-height{
-	height: 50rem;
+	height: 150rem;
 }
 
 /* Featured Slider Nav Breakpoints */
@@ -3936,7 +3936,7 @@ only screen and (				min-resolution: 2dppx) {
 
 	/* Fullscreen Sections */
 	.fullscreen-bkg-2{
-		background-image: url(../images/slider/slide-7-fs@2x.jpg);
+		background-image: url(/assets/img/general/maintenance.jpg);
 	}
 	.fullscreen-bkg-3{
 		background-image: url(../images/slider/slide-4-fs@2x.jpg);

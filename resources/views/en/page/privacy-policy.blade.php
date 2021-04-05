@@ -1,4 +1,5 @@
 @extends('en.layout.header-footer')
+@section('title', 'Privacy Policy')
 @section('nav-english', 'current')
 @section('container')
 <!-- Content -->

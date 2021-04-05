@@ -1,4 +1,5 @@
 @extends('id.layout.header-footer')
+@section('title', 'Studio Kami')
 @section('nav-about_us', 'current')
 @section('nav-our_studio', 'current')
 @section('nav-indonesian', 'current')

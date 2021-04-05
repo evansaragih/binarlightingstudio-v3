@@ -1,7 +1,8 @@
 @extends('id.layout.header-footer')
-@section('container')
+@section('title', 'Beranda')
 @section('nav-home', 'current')
 @section('nav-indonesian', 'current')
+@section('container')
 <!-- Content -->
 <div class="content clearfix">
   <!-- Fullscreen Slider Section -->
@@ -52,9 +53,9 @@
           <div class="tms-content">
             <div class="tms-content-inner left v-align-middle">
               <div class="row">
-                <div class="column width-7 offset-0">
+                <div class="column width-3 offset-0">
                   <div class="tms-caption text-line-vertical" data-animate-in="preset:slideInUpLong;duration:1000ms;" data-no-scale>
-                    <h1 class="title-xlarge color-white lspacing-small mb-10 text-uppercase">
+                    <h1 class="title-xmedium color-white lspacing-small mb-10 text">
                       <strong>Selamat Memperingati<br />Jumat Agung</strong>
                     </h1>
                     <p class="lead color-white text no-margin-bottom">

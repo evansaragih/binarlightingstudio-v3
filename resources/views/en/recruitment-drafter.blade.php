@@ -1,4 +1,5 @@
 @extends('en.layout.header-footer')
+@section('title', 'Recruitment')
 @section('nav-careers', 'current')
 @section('nav-drafter', 'current')
 @section('nav-english', 'current')

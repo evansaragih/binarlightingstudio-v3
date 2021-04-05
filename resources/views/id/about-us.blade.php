@@ -1,4 +1,5 @@
 @extends('id.layout.header-footer')
+@section('title', 'Tentang Kami')
 @section('nav-about_us', 'current')
 @section('nav-our_philosophy', 'current')
 @section('nav-indonesian', 'current')
