@@ -15,7 +15,7 @@
                             <div class="row">
                                 <div class="column width-12">
                                     <h1 class="tms-caption color-white inline" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:100ms;" data-no-scale>
-                                        The Lights Speaks for Its Self
+                                        There's a Crack in Everything,<br>That's How The Lights Get In
                                     </h1>
                                 </div>
                             </div>

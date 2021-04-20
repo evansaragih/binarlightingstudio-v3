@@ -1767,7 +1767,7 @@ body,
 */
 
 .tm-lightbox{
-	background: rgba(0,0,0,1);
+	background: rgba(5,9,27,1);
 }
 #tml-content-wrapper.zoomed + #tml-caption span{
 	background-color: rgba(0,0,0,0.3);
