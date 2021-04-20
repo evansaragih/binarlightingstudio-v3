@@ -74,7 +74,7 @@
                                 <li class="@yield('nav-privacy_policy')">
                                     <a href="{{ url('/en/privacy-policy') }}">Privacy Policy</a>
                                 </li>
-                                <li class="@yield('nav-term_conditions')">
+                                <li class="@yield('nav-terms_condition')">
                                     <a href="{{ url('/en/terms-condition') }}">Terms & Conditions</a>
                                 </li>
                             </ul>
@@ -195,7 +195,7 @@
                                             <li class="@yield('nav-privacy_policy')">
                                                 <a href="{{ url('/en/privacy-policy') }}">Privacy Policy</a>
                                             </li>
-                                            <li class="@yield('nav-terms_conditions')">
+                                            <li class="@yield('nav-terms_condition')">
                                                 <a href="{{ url('/en/terms-condition') }}">Terms & Conditions</a>
                                             </li>
                                         </ul>

@@ -1,5 +1,7 @@
 @extends('en.layout.header-footer')
 @section('title', 'Privacy Policy')
+@section('nav-about_us', 'current')
+@section('nav-privacy_policy', 'current')
 @section('nav-english', 'current')
 @section('container')
 <!-- Content -->

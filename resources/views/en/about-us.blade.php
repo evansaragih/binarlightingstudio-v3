@@ -118,7 +118,7 @@
       <iframe width="560" height="315" src="https://www.youtube.com/embed/bIigCRnpIMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="row">
-      <div class="column width-7 push-7">
+      <div class="column width-6 push-7">
         <div class="hero-content split-hero-content">
           <div class="hero-content-inner left">
             <h3 class="">BINAR A LIGHTING STUDIO</h3>

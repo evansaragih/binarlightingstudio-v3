@@ -1,5 +1,7 @@
 @extends('en.layout.header-footer')
 @section('title', 'Terms & Conditions')
+@section('nav-about_us', 'current')
+@section('nav-terms_condition', 'current')
 @section('nav-english', 'current')
 @section('container')
 <!-- Content -->
