@@ -55,7 +55,7 @@
             <div class="column width-12">
                 <div class="row grid content-grid-4">
                     <div class="grid-item grid-sizer photography wide">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="{{ url('en/projects/noaa-social-dining')}}">
                                 <img src="/assets/img/portofolio/grid/project-noaa_social_dining.jpg" alt="" />
                                 <span class="overlay-info">
@@ -69,7 +69,7 @@
                         </div>
                     </div>
                     <div class="grid-item photography">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-adiwana_jeevalokha.jpg" alt="" />
                                 <span class="overlay-info">
@@ -83,7 +83,7 @@
                         </div>
                     </div>
                     <div class="grid-item design application">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="{{ url('en/projects/harris-hotel-tebet')}}">
                                 <img src="/assets/img/portofolio/grid/project-harris_hotel_tebet.jpg" alt="" />
                                 <span class="overlay-info">
@@ -97,7 +97,7 @@
                         </div>
                     </div>
                     <div class="grid-item design identity">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-villa_sentul.jpg" alt="" />
                                 <span class="overlay-info">
@@ -111,7 +111,7 @@
                         </div>
                     </div>
                     <div class="grid-item identity">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-mixed_used_area_lampung.jpg" alt="" />
                                 <span class="overlay-info">
@@ -125,7 +125,7 @@
                         </div>
                     </div>
                     <div class="grid-item portrait design photography">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-ulaman_eco_retreat.jpg" alt="" />
                                 <span class="overlay-info">
@@ -140,7 +140,7 @@
                         </div>
                     </div>
                     <div class="grid-item design">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-harris_hotel_batam.jpg" alt="" />
                                 <span class="overlay-info">
@@ -154,7 +154,7 @@
                         </div>
                     </div>
                     <div class="grid-item application">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-villa_ali_agung.jpg" alt="" />
                                 <span class="overlay-info">
@@ -168,7 +168,7 @@
                         </div>
                     </div>
                     <div class="grid-item design identity">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-villa_beraban.jpg" alt="" />
                                 <span class="overlay-info">
@@ -182,7 +182,7 @@
                         </div>
                     </div>
                     <div class="grid-item design identity">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-karma_residence.jpg" alt="" />
                                 <span class="overlay-info">
@@ -196,7 +196,7 @@
                         </div>
                     </div>
                     <div class="grid-item wide design identity">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-harris_hotel_tuban.jpg" alt="" />
                                 <span class="overlay-info">
@@ -210,7 +210,7 @@
                         </div>
                     </div>
                     <div class="grid-item design identity">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-tunon_residence.jpg" alt="" />
                                 <span class="overlay-info">
@@ -224,7 +224,7 @@
                         </div>
                     </div>
                     <div class="grid-item design identity">
-                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
                             <a class="overlay-link" href="project-style-one.html">
                                 <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
                                 <span class="overlay-info">
