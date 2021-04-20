@@ -56,7 +56,7 @@
                 <div class="row grid content-grid-4">
                     <div class="grid-item grid-sizer photography wide">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="{{ url('/projects/noaa_social_dining')}}">
+                            <a class="overlay-link" href="{{ url('en/projects/noaa-social-dining')}}">
                                 <img src="/assets/img/portofolio/grid/project-noaa_social_dining.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -84,7 +84,7 @@
                     </div>
                     <div class="grid-item design application">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/harris-hotel-tebet')}}">
                                 <img src="/assets/img/portofolio/grid/project-harris_hotel_tebet.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>

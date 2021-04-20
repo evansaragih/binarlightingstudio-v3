@@ -1,4 +1,5 @@
 @extends('en.layout.header-footer')
+@section('title', 'Harris Hotel Tebet')
 @section('nav-projects', 'current')
 @section('nav-english', 'current')
 @section('container')
