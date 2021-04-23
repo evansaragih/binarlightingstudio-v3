@@ -70,7 +70,7 @@
                     </div>
                     <div class="grid-item photography">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/adiwana-jeevalokha')}}">
                                 <img src="/assets/img/portofolio/grid/project-adiwana_jeevalokha.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -98,12 +98,12 @@
                     </div>
                     <div class="grid-item design identity">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/sentul-residence')}}">
                                 <img src="/assets/img/portofolio/grid/project-villa_sentul.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
                                         <span>
-                                            <span class="project-title">Villa Sentul</span>
+                                            <span class="project-title">Sentul Residence</span>
                                         </span>
                                     </span>
                                 </span>
@@ -112,7 +112,7 @@
                     </div>
                     <div class="grid-item identity">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/mixed-used-area-lampung')}}">
                                 <img src="/assets/img/portofolio/grid/project-mixed_used_area_lampung.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -126,7 +126,7 @@
                     </div>
                     <div class="grid-item portrait design photography">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/the-waterfall-ulaman-retreat')}}">
                                 <img src="/assets/img/portofolio/grid/project-ulaman_eco_retreat.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -141,7 +141,7 @@
                     </div>
                     <div class="grid-item design">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/harris-hotel-batam')}}">
                                 <img src="/assets/img/portofolio/grid/project-harris_hotel_batam.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -155,7 +155,7 @@
                     </div>
                     <div class="grid-item application">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/villa-ali-agung')}}">
                                 <img src="/assets/img/portofolio/grid/project-villa_ali_agung.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -169,7 +169,7 @@
                     </div>
                     <div class="grid-item design identity">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/villa-beraban')}}">
                                 <img src="/assets/img/portofolio/grid/project-villa_beraban.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -183,7 +183,7 @@
                     </div>
                     <div class="grid-item design identity">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/karma-residence')}}">
                                 <img src="/assets/img/portofolio/grid/project-karma_residence.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -197,7 +197,7 @@
                     </div>
                     <div class="grid-item wide design identity">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/harris-hotel-tuban')}}">
                                 <img src="/assets/img/portofolio/grid/project-harris_hotel_tuban.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -211,7 +211,7 @@
                     </div>
                     <div class="grid-item design identity">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/tunon-residence')}}">
                                 <img src="/assets/img/portofolio/grid/project-tunon_residence.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>
@@ -225,7 +225,7 @@
                     </div>
                     <div class="grid-item design identity">
                         <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
-                            <a class="overlay-link" href="project-style-one.html">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
                                 <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
                                 <span class="overlay-info">
                                     <span>

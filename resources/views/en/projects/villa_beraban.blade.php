@@ -1,5 +1,5 @@
 @extends('en.layout.header-footer')
-@section('title', 'NOAA Social Dining')
+@section('title', 'Villa Beraban')
 @section('nav-projects', 'current')
 @section('nav-english', 'current')
 @section('container')
@@ -15,13 +15,13 @@
                             <div class="row">
                                 <div class="column width-12">
                                     <h1 class="tms-caption color-white inline" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:100ms;" data-no-scale>
-                                        The Lights Speaks for Its Self
+                                        Contemplate in The Middle of The Crowd
                                     </h1>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <img data-src="/assets/img/banner/noaa_social_dining.jpg" data-retina src="images/blank.png" alt="" />
+                    <img data-src="/assets/img/banner/villa_beraban.jpg" data-retina src="images/blank.png" alt="" />
                 </li>
             </ul>
         </div>
@@ -32,43 +32,43 @@
     <div class="section-block pt-70 bkg-blue-binar-body">
         <div class="row">
             <div class="column width-6">
-                <h1 class="title-medium">NOAA Social Dining</h1>
+                <h1 class="title-medium">Villa Beraban</h1>
             </div>
             <div class="column width-5 offset-1">
-                <p class="mb-50">Location: Petitenget, Bali</p>
+                <p class="mb-50">Location: Kerobokan, Bali</p>
             </div>
             <div class="column width-12">
                 <hr class="mb-50" />
             </div>
             <div class="column width-4">
                 <p class="project-attribute">
-                    <span class="project-label">Client:</span><span class="project-value">PT. BDC Food Specialities Indonesia</span>
+                    <span class="project-label">Client:</span><span class="project-value">Iqbal and Partners</span>
                 </p>
             </div>
             <div class="column width-4">
                 <p class="project-attribute">
-                    <span class="project-label">Architect:</span><span class="project-value">Arkana</span>
+                    <span class="project-label">Architect:</span><span class="project-value">Inhouse</span>
                 </p>
             </div>
             <div class="column width-4">
                 <p class="project-attribute">
-                    <span class="project-label">Interior:</span><span class="project-value">Mala Silviani & Rieky Sunur</span>
+                    <span class="project-label">Interior:</span><span class="project-value">Inhouse</span>
                 </p>
             </div>
             <div class="column width-12 mb-20"></div>
             <div class="column width-4">
                 <p class="project-attribute">
-                    <span class="project-label">Landscape:</span><span class="project-value">PT. BDC Food Specialities Indonesia</span>
+                    <span class="project-label">Landscape:</span><span class="project-value">Inhouse</span>
                 </p>
             </div>
             <div class="column width-4">
                 <p class="project-attribute">
-                    <span class="project-label">MEP:</span><span class="project-value">Wayan Konstruksi</span>
+                    <span class="project-label">MEP:</span><span class="project-value">Inhouse</span>
                 </p>
             </div>
             <div class="column width-4">
                 <p class="project-attribute">
-                    <span class="project-label">Photography:</span><span class="project-value">Eye Instrument Photowerk</span>
+                    <span class="project-label">Photography:</span><span class="project-value">IQBALPHOTOABIDIN</span>
                 </p>
             </div>
         </div>
@@ -82,13 +82,13 @@
                 <div class="tm-slider-container content-slider" data-animation="slide" data-width="635" data-height="423" data-scale-under="960">
                     <ul class="tms-slides">
                         <li class="tms-slide" data-image data-as-bkg-image data-force-fit>
-                            <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-1.jpg" src="images/blank.png" alt="" />
+                            <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-1.jpg" src="images/blank.png" alt="" />
                         </li>
                         <li class="tms-slide" data-image data-as-bkg-image data-force-fit>
-                            <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-2.jpg" src="images/blank.png" alt="" />
+                            <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-2.jpg" src="images/blank.png" alt="" />
                         </li>
                         <li class="tms-slide" data-image data-as-bkg-image data-force-fit>
-                            <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-3.jpg" src="images/blank.png" alt="" />
+                            <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-4.jpg" src="images/blank.png" alt="" />
                         </li>
                     </ul>
                 </div>
@@ -107,9 +107,6 @@
                             <a href="#tabs-1-pane-1">Phylosophy Concept</a>
                         </li>
                         <li>
-                            <a href="#tabs-1-pane-2">Result</a>
-                        </li>
-                        <li>
                             <a href="#tabs-1-pane-3">Galery</a>
                         </li>
                         <li>
@@ -119,81 +116,25 @@
                     <div class="tab-panes">
                         <div id="tabs-1-pane-1" class="active animate">
                             <div class="tab-content pt-30">
-                                <h5>NOAA Social Dining</h5>
+                                <h5>Villa Beraban</h5>
                                 <p class="lead">Philosophy Concept</p>
                                 <p class="mb-20">
-                                    Located on the busy street of Seminyak, NOAA
-                                    has been designed to become a stand apart
-                                    restaurant with its state-of-the-art
-                                    architecture that highlights the transparent
-                                    roof, graceful interior appearance, and
-                                    inviting pedestrian’s borders.
-                                </p>
-                                <p class="mb-20">
-                                    The solid roof design with a light grazing
-                                    wash is meant to be the façade crown
-                                    lighting that attracts attention and marking
-                                    the identity of the building. Meanwhile, the
-                                    starlight on the glass roof is to diminish
-                                    the border between the terrace area with the
-                                    majestic night sky, increasing the charm of
-                                    the roof with its façade appearance.
-                                </p>
-                                <p class="mb-20">
-                                    By taking advantage of the transparent
-                                    façade, the interior of this building easily
-                                    stands out with an overall harmony of
-                                    colour-changing lighting for dynamic mood
-                                    purposes or by the theme of events, as a
-                                    compliment to the contrast task light
-                                    ambience.
+                                    Located just off the riverbank overlooking the lush greenery of the paddy fields, a white modern modest building stands. Combining nature using lighting design was planned to enhance the beauty of the architectural building and its surroundings. Therefore, The Bali Lighting Consultant complimented the beauty and its environment with warmed dim lighting in several key points areas. These allowed residents to enjoy the atmosphere of their surrounding whilst soaking up the natural vibe.
                                 </p>
                                 <p class="mb-50">
-                                    Lastly, the finishing touches of the
-                                    sidewalk border and its illumination effect
-                                    for pedestrian level is the cherry on top
-                                    for the overall façade lighting ambiance.
-                                </p>
-                            </div>
-                        </div>
-                        <div id="tabs-1-pane-2">
-                            <div class="tab-content pt-30">
-                                <h5>NOAA Social Dining</h5>
-                                <p class="lead">Result</p>
-                                <p class="mb-20">
-                                    Our team of designers creates expressive,
-                                    sustainable, and high-quality concepts in
-                                    light. After going through several gradual
-                                    changes, we came with original conceptual
-                                    lighting designs and intertwined the work of
-                                    our client, architects, and artists that
-                                    brought us exquisite results.
-                                </p>
-                                <p class="mb-50">
-                                    The concept of using colour-changing mood
-                                    lighting is eliminated to get warmer results
-                                    and bring comfort for all ages, by following
-                                    NOAA's dining experience concept of
-                                    families-oriented fine dining. Meanwhile,
-                                    the crown façade concept is maintained along
-                                    with the pedestrian border, which is added
-                                    to enhance the entrance, whereas the glass
-                                    canopy and staircase area requires a
-                                    friendly and warm welcome that will result
-                                    in directing and inviting customers into the
-                                    restaurant.
+                                    The Bali Lighting Consultant, the goal is to maximize the potential of the lighting fixture to gain its extensive function. The team accomplished this by using street lights as a form of task lighting to create shadows for an artistic visualization ambience at night. The pool itself has become a medium for beautification because it mirrors the building lighting at night which elevates the overall beauty and mood. 
                                 </p>
                             </div>
                         </div>
                         <div id="tabs-1-pane-3">
                             <div class="tab-content pt-30">
-                                <h5>NOAA Social Dining</h5>
+                                <h5>Villa Beraban</h5>
                                 <p class="lead mb-50">Gallery</p>
                                 <div class="row grid content-grid-4">
                                     <div class="grid-item grid-sizer">
                                         <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-1.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-1.jpg" alt="" />
+                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/villa_beraban/villa_beraban-1.jpg">
+                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-1.jpg" alt="" />
                                                 <span class="overlay-info">
                                                     <span>
                                                         <span>
@@ -206,8 +147,8 @@
                                     </div>
                                     <div class="grid-item">
                                         <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-2.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-2.jpg" alt="" />
+                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/villa_beraban/villa_beraban-2.jpg">
+                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-2.jpg" alt="" />
                                                 <span class="overlay-info">
                                                     <span>
                                                         <span>
@@ -220,8 +161,8 @@
                                     </div>
                                     <div class="grid-item">
                                         <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-3.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-3.jpg" alt="" />
+                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/villa_beraban/villa_beraban-3.jpg">
+                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-3.jpg" alt="" />
                                                 <span class="overlay-info">
                                                     <span>
                                                         <span>
@@ -234,8 +175,8 @@
                                     </div>
                                     <div class="grid-item">
                                         <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-5.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-5.jpg" alt="" />
+                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/villa_beraban/villa_beraban-4.jpg">
+                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-4.jpg" alt="" />
                                                 <span class="overlay-info">
                                                     <span>
                                                         <span>
@@ -248,8 +189,8 @@
                                     </div>
                                     <div class="grid-item">
                                         <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-4.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-4.jpg" alt="" />
+                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/villa_beraban/villa_beraban-5.jpg">
+                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-5.jpg" alt="" />
                                                 <span class="overlay-info">
                                                     <span>
                                                         <span>
@@ -262,8 +203,8 @@
                                     </div>
                                     <div class="grid-item">
                                         <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-6.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-6.jpg" alt="" />
+                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/villa_beraban/villa_beraban-6.jpg">
+                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-6.jpg" alt="" />
                                                 <span class="overlay-info">
                                                     <span>
                                                         <span>
@@ -276,8 +217,8 @@
                                     </div>
                                     <div class="grid-item">
                                         <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-8.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-8.jpg" alt="" />
+                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/villa_beraban/villa_beraban-7.jpg">
+                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-7.jpg" alt="" />
                                                 <span class="overlay-info">
                                                     <span>
                                                         <span>
@@ -290,36 +231,8 @@
                                     </div>
                                     <div class="grid-item">
                                         <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-10.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-10.jpg" alt="" />
-                                                <span class="overlay-info">
-                                                    <span>
-                                                        <span>
-                                                            <span class="icon-magnifying-glass"></span>
-                                                        </span>
-                                                    </span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="grid-item">
-                                        <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-9.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-9.jpg" alt="" />
-                                                <span class="overlay-info">
-                                                    <span>
-                                                        <span>
-                                                            <span class="icon-magnifying-glass"></span>
-                                                        </span>
-                                                    </span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="grid-item">
-                                        <div class="thumbnail">
-                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-7.jpg">
-                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/noaa_social_dining/noaa_social_dining-7.jpg" alt="" />
+                                            <a class="overlay-link lightbox-link" data-group="product-gallery" href="/assets/img/portofolio/projects/villa_beraban/villa_beraban-8.jpg">
+                                                <img class="lazyload" data-src="/assets/img/portofolio/projects/villa_beraban/villa_beraban-8.jpg" alt="" />
                                                 <span class="overlay-info">
                                                     <span>
                                                         <span>
@@ -335,6 +248,8 @@
                         </div>
                         <div id="tabs-1-pane-4">
                             <div id="tab-content pt-30">
+                            <h5>Villa Beraban</h5>
+                                <p class="lead mb-50">Comments</p>
                                 <div class="fb-comments" data-href="http://127.0.0.1:8000/en/projects/noaa-social-dining" data-width="100%" data-numposts="5" data-mobile="true" data-colorscheme="light" data-link-color="#0cbacf"></div>
                             </div>
                         </div>
@@ -354,7 +269,7 @@
                         <a class="pagination-previous disabled" href="#"><span class="icon-left-open-mini"></span> Prev</a>
                     </li>
                     <li>
-                        <a class="back-to-grid fade-location" href="">NOAA Social Dining</a>
+                        <a class="back-to-grid fade-location" href="">Villa Beraban</a>
                     </li>
                     <li>
                         <a class="pagination-next" href="{{ url('/en/projects/noaa-social-dining') }}">

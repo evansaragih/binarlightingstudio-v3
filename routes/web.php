@@ -125,8 +125,8 @@ Route::get('en/projects/harris-hotel-tebet', function () {
     return view('en.projects.harris_hotel_tebet');
 });
 
-Route::get('en/projects/villa-sentul', function () {
-    return view('en.projects.villa_sentul');
+Route::get('en/projects/sentul-residence', function () {
+    return view('en.projects.sentul_residence');
 });
 
 Route::get('en/projects/mixed-used-area-lampung', function () {
