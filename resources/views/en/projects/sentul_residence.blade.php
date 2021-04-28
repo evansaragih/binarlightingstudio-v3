@@ -110,7 +110,7 @@
                             <a href="#tabs-1-pane-3">Galery</a>
                         </li>
                         <li>
-                            <a href="#tabs-1-pane-4">Comments (<span class="fb-comments-count" data-href="http://127.0.0.1:8000/en/projects/noaa-social-dining"></span>) </a>
+                            <a href="#tabs-1-pane-4">Comments (<span class="fb-comments-count" data-href="http://127.0.0.1:8000/en/projects/sentul-residence"></span>) </a>
                         </li>
                     </ul>
                     <div class="tab-panes">
@@ -311,7 +311,7 @@
                             <div id="tab-content pt-30">
                             <h5>Sentul Residence</h5>
                                 <p class="lead mb-50">Comments</p>
-                                <div class="fb-comments" data-href="http://127.0.0.1:8000/en/projects/noaa-social-dining" data-width="100%" data-numposts="5" data-mobile="true" data-colorscheme="light" data-link-color="#0cbacf"></div>
+                                <div class="fb-comments" data-href="http://127.0.0.1:8000/en/projects/sentul-residence" data-width="100%" data-numposts="5" data-mobile="true" data-colorscheme="light" data-link-color="#0cbacf"></div>
                             </div>
                         </div>
                     </div>
@@ -327,13 +327,13 @@
             <div class="column width-12">
                 <ul>
                     <li>
-                        <a class="pagination-previous disabled" href="#"><span class="icon-left-open-mini"></span> Prev</a>
+                        <a class="pagination-previous" href="{{ url('/en/projects/harris-hotel-tebet') }}"><span class="icon-left-open-mini"></span> Prev</a>
                     </li>
                     <li>
                         <a class="back-to-grid fade-location" href="">Sentul Residence</a>
                     </li>
                     <li>
-                        <a class="pagination-next" href="{{ url('/en/projects/noaa-social-dining') }}">
+                        <a class="pagination-next" href="{{ url('/en/projects/mixed-used-area-lampung') }}">
                             Next <span class="icon-right-open-mini"></span></a>
                     </li>
                 </ul>

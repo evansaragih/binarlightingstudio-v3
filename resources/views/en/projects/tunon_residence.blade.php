@@ -110,7 +110,7 @@
                             <a href="#tabs-1-pane-3">Galery</a>
                         </li>
                         <li>
-                            <a href="#tabs-1-pane-4">Comments (<span class="fb-comments-count" data-href="http://127.0.0.1:8000/en/projects/noaa-social-dining"></span>) </a>
+                            <a href="#tabs-1-pane-4">Comments (<span class="fb-comments-count" data-href="http://127.0.0.1:8000/en/projects/tunon-residence"></span>) </a>
                         </li>
                     </ul>
                     <div class="tab-panes">
@@ -306,7 +306,7 @@
                             <div id="tab-content pt-30">
                             <h5>Tunon Residence</h5>
                                 <p class="lead mb-50">Comments</p>
-                                <div class="fb-comments" data-href="http://127.0.0.1:8000/en/projects/noaa-social-dining" data-width="100%" data-numposts="5" data-mobile="true" data-colorscheme="light" data-link-color="#0cbacf"></div>
+                                <div class="fb-comments" data-href="http://127.0.0.1:8000/en/projects/tunon-residence" data-width="100%" data-numposts="5" data-mobile="true" data-colorscheme="light" data-link-color="#0cbacf"></div>
                             </div>
                         </div>
                     </div>
@@ -322,13 +322,13 @@
             <div class="column width-12">
                 <ul>
                     <li>
-                        <a class="pagination-previous disabled" href="#"><span class="icon-left-open-mini"></span> Prev</a>
+                        <a class="pagination-previous" href="{{ url('/en/projects/harris-hotel-tuban') }}"><span class="icon-left-open-mini"></span> Prev</a>
                     </li>
                     <li>
                         <a class="back-to-grid fade-location" href="">Tunon Residence</a>
                     </li>
                     <li>
-                        <a class="pagination-next" href="{{ url('/en/projects/noaa-social-dining') }}">
+                        <a class="pagination-next" href="{{ url('/en/projects/ocean-palm') }}">
                             Next <span class="icon-right-open-mini"></span></a>
                     </li>
                 </ul>

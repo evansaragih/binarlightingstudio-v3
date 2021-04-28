@@ -37,8 +37,8 @@
     <section class="section-block replicable-content contact-2">
         <div class="row">
             <div class="column width-8 offset-2 center">
-                <h2 class="mb-30">Let's Work Together</h2>
-                <div class="contact-form-container">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegaHngmktsBPxWUyQV1kBVbuyVSLcF2s7Ko4Cl5z3_wzj7rw/viewform?embedded=true" width="640" height="650" frameborder="0" marginheight="0" marginwidth="0" class="bkg-blue-binar-body">Memuat…</iframe>
+                <div class="contact-form-container" hidden>
                     <form class="contacts-form" action="/en/services/work-together" method="post">
                         @csrf
                         <div class="row">

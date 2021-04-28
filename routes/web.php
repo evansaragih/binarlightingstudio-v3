@@ -194,8 +194,88 @@ Route::get('en/projects/diageo-office', function () {
 });
 
 Route::get('id/projects', function () {
-    // return view('en.projects');
-    return redirect()->route('peningkatan');
+    return view('id.projects');
+    // return redirect()->route('peningkatan');
+});
+
+Route::get('id/projects/noaa-social-dining', function () {
+    return view('id.projects.noaa_social_dining');
+});
+
+Route::get('id/projects/adiwana-jeevalokha', function () {
+    return view('id.projects.adiwana_jeevalokha');
+});
+
+Route::get('id/projects/harris-hotel-tebet', function () {
+    return view('id.projects.harris_hotel_tebet');
+});
+
+Route::get('id/projects/sentul-residence', function () {
+    return view('id.projects.sentul_residence');
+});
+
+Route::get('id/projects/mixed-used-area-lampung', function () {
+    return view('id.projects.mixed_used_area_lampung');
+});
+
+Route::get('id/projects/the-waterfall-ulaman-retreat', function () {
+    return view('id.projects.the_waterfall_ulaman_retreat');
+});
+
+Route::get('id/projects/harris-hotel-batam', function () {
+    return view('id.projects.harris_hotel_batam');
+});
+
+Route::get('id/projects/villa-ali-agung', function () {
+    return view('id.projects.villa_ali_agung');
+});
+
+Route::get('id/projects/villa-beraban', function () {
+    return view('id.projects.villa_beraban');
+});
+
+Route::get('id/projects/karma-residence', function () {
+    return view('id.projects.karma_residence');
+});
+
+Route::get('id/projects/harris-hotel-tuban', function () {
+    return view('id.projects.harris_hotel_tuban');
+});
+
+Route::get('id/projects/ocean-palm', function () {
+    return view('id.projects.ocean_palm');
+});
+
+Route::get('id/projects/tunon-residence', function () {
+    return view('id.projects.tunon_residence');
+});
+
+Route::get('id/projects/kappa-ubud', function () {
+    return view('id.projects.kappa_ubud');
+});
+
+Route::get('id/projects/pramana-bali-aga', function () {
+    return view('id.projects.pramana_bali_aga');
+});
+
+Route::get('id/projects/the-suku', function () {
+    return view('id.projects.the_suku');
+});
+
+Route::get('id/projects/adiwana-jelita', function () {
+    return view('id.projects.adiwana_jelita');
+});
+
+Route::get('id/projects/pizza-stack', function () {
+    return view('id.projects.pizza_stack');
+});
+
+Route::get('id/projects/byrdhouse', function () {
+    return view('id.projects.byrdhouse');
+});
+
+Route::get('id/projects/diageo-office', function () {
+    return view('id.projects.diageo_office');
 });
 
 /*

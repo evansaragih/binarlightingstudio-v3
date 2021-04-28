@@ -33,18 +33,15 @@
     <!-- Intro Title Section 2 End -->
 
     <!-- Portfolio Grid -->
-    <div class="section-block grid-filter-menu center bkg-blue-binar-body">
+    <div class="section-block grid-filter-menu center bkg-blue-binar-body" hidden>
         <div class="row">
             <div class="column width-12">
                 <ul>
                     <li><a class="active" href="#" data-filter="*">All</a></li>
-                    <li><a href="#" data-filter=".design">Design</a></li>
-                    <li><a href="#" data-filter=".identity">Identity</a></li>
+                    <li><a href="#" data-filter=".design">Completed Project</a></li>
+                    <li><a href="#" data-filter=".identity">On Going Project</a></li>
                     <li>
-                        <a href="#" data-filter=".photography">Photograhy</a>
-                    </li>
-                    <li>
-                        <a href="#" data-filter=".application">Applications</a>
+                        <a href="#" data-filter=".photography">Lagom Project</a>
                     </li>
                 </ul>
             </div>
@@ -231,6 +228,146 @@
                                     <span>
                                         <span>
                                             <span class="project-title">Ocen Palm</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Atria Building</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Byrdhouse</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Diageo Office</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Adiwana Jelita Sejuba</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Kappa Ubud</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Pramana Bali Aga</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">The Suku</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Semaon Estate</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Beachouse</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid-item design identity" hidden>
+                        <div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-opacity="0.9">
+                            <a class="overlay-link" href="{{ url('en/projects/ocean-palm')}}">
+                                <img src="/assets/img/portofolio/grid/project-ocean_palm.jpg" alt="" />
+                                <span class="overlay-info">
+                                    <span>
+                                        <span>
+                                            <span class="project-title">Locavore</span>
                                         </span>
                                     </span>
                                 </span>

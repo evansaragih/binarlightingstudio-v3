@@ -335,6 +335,8 @@
                         </div>
                         <div id="tabs-1-pane-4">
                             <div id="tab-content pt-30">
+                                <h5>NOAA Social Dining</h5>
+                                <p class="lead mb-50">Comments</p>
                                 <div class="fb-comments" data-href="http://127.0.0.1:8000/en/projects/noaa-social-dining" data-width="100%" data-numposts="5" data-mobile="true" data-colorscheme="light" data-link-color="#0cbacf"></div>
                             </div>
                         </div>
@@ -357,7 +359,7 @@
                         <a class="back-to-grid fade-location" href="">NOAA Social Dining</a>
                     </li>
                     <li>
-                        <a class="pagination-next" href="{{ url('/en/projects/noaa-social-dining') }}">
+                        <a class="pagination-next" href="{{ url('/en/projects/adiwana-jeevalokha') }}">
                             Next <span class="icon-right-open-mini"></span></a>
                     </li>
                 </ul>

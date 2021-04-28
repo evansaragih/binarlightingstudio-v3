@@ -110,7 +110,7 @@
                             <a href="#tabs-1-pane-3">Galery</a>
                         </li>
                         <li>
-                            <a href="#tabs-1-pane-4">Comments (<span class="fb-comments-count" data-href="http://127.0.0.1:8000/en/projects/noaa-social-dining"></span>) </a>
+                            <a href="#tabs-1-pane-4">Comments (<span class="fb-comments-count" data-href="http://127.0.0.1:8000/en/projects/villa-beraban"></span>) </a>
                         </li>
                     </ul>
                     <div class="tab-panes">
@@ -250,7 +250,7 @@
                             <div id="tab-content pt-30">
                             <h5>Villa Beraban</h5>
                                 <p class="lead mb-50">Comments</p>
-                                <div class="fb-comments" data-href="http://127.0.0.1:8000/en/projects/noaa-social-dining" data-width="100%" data-numposts="5" data-mobile="true" data-colorscheme="light" data-link-color="#0cbacf"></div>
+                                <div class="fb-comments" data-href="http://127.0.0.1:8000/en/projects/villa-beraban" data-width="100%" data-numposts="5" data-mobile="true" data-colorscheme="light" data-link-color="#0cbacf"></div>
                             </div>
                         </div>
                     </div>
