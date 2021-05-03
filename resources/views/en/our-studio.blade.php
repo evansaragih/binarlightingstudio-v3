@@ -21,7 +21,7 @@
                             </div>
                         </div>
                     </div>
-                    <img data-src="/assets/img/banner/our-studio.jpg" data-retina src="images/blank.png" alt="" />
+                    <img data-src="/assets/img/banner/our-studio.svg" data-retina src="images/blank.png" alt="" />
                 </li>
             </ul>
         </div>
@@ -35,9 +35,10 @@
                 <h3 class="mb-30">Inquiries</h3>
                 <p>
                     For any and all questions concering a project or any
-                    inquiery, please just drop us an email.
+                    inquiery, please just drop us an email or whatsapp.
                 </p>
-                <a href="mailto:customer-care@binarlightingstudio.com" class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-0 mb-mobile-50">customer-care@binarlightingstudio.com</a>
+                <a href="mailto:customer-care@binarlightingstudio.com" class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-20 mb-mobile-50">customer-care@binarlightingstudio.com</a>
+                <a href="https://api.whatsapp.com/send?phone=6287874755277&text=Halo...%0ASaya%20baru%20saja%20mengunjungi%20website%20BINAR%20a%20Lighting%20Studio.%20Namun%20ada%20beberapa%20hal%20yang%20saya%20ingin%20tanyakan.%20Saya%20mohon%20bantuannya%20lebih%20lanjut%20terkait%20hal%20yang%20saya%20ingin%20tanyakan." class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-0 mb-mobile-50">Whatsapp Business</a>
             </div>
             <div class="column width-6 offset-1 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1">
                 <h3 class="mb-30">Press Related</h3>

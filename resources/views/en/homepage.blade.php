@@ -16,20 +16,19 @@
                 <div class="column width-6 offset-0">
                   <div class="tms-caption text-line-vertical" data-animate-in="preset:slideInUpLong;duration:1000ms;" data-no-scale>
                     <h1 class="title-medium color-white lspacing-small mb-10 text">
-                      <strong>We give additional value by shaping the light
-                        into your property</strong>
+                      <strong>Light changes the soul of an object</strong>
                     </h1>
                     <p class="lead color-white text no-margin-bottom">
                       Are you planning for renovation or build
                       something?
-                      <a href="#binar-hiring" class="bkg-blue-binar">Click here</a>
+                      <a href="{{ url('/en/services/work-together') }}" class="bkg-blue-binar">Click here</a>
                     </p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <img data-src="/assets/img/slider/slide_home-page-1.jpg" data-retina src="images/blank.png" alt="" />
+          <img data-src="/assets/img/slider/slide_home-page-1.svg" data-retina src="images/blank.png" alt="" />
         </li>
         <li class="tms-slide" data-image data-as-bkg-image data-force-fit data-overlay-bkg-color="#000000" data-overlay-bkg-opacity="0.3" data-animation="slideLeftRight">
           <div class="tms-content">
@@ -97,7 +96,7 @@
           respective parties to get the right artificial lighting that
           supports and maximizes the concept that wish to be achieved.
         </p>
-        <a href="{{ url('/en/services/our_service') }}" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">See details</a>
+        <a href="{{ url('/en/services/our-service') }}" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">See details</a>
       </div>
     </div>
     <div class="row">

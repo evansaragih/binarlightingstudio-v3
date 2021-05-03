@@ -22,7 +22,7 @@
               </div>
             </div>
           </div>
-          <img data-src="/assets/img/banner/about_us.jpg" data-retina src="images/blank.png" alt="" />
+          <img data-src="/assets/img/banner/about_us.svg" data-retina src="images/blank.png" alt="" />
         </li>
       </ul>
     </div>
@@ -48,7 +48,7 @@
       </div>
       <div class="column width-5 offset-1">
         <div class="row content-grid-2 flex">
-          <img src="/assets/img/general/about-philosophy.jpg" width="760" height="500" alt="" />
+          <img src="/assets/img/general/about-philosophy.jpg" width="760" height="300" alt="" />
         </div>
       </div>
     </div>

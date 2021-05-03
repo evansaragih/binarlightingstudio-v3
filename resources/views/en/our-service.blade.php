@@ -145,7 +145,7 @@
                         <span class="client-description font-alt-1">Bali</span>
                     </div>
                     <div class="grid-item">
-                        <h5 class="client-name">Villa Sentul</h5>
+                        <h5 class="client-name">Sentul Residence</h5>
                         <span class="client-description font-alt-1">Jawa Barat</span>
                     </div>
                     <div class="grid-item">
@@ -161,11 +161,11 @@
                         <span class="client-description font-alt-1">Bali</span>
                     </div>
                     <div class="grid-item">
-                        <h5 class="client-name">Ocean Palm</h5>
-                        <span class="client-description font-alt-1">Bali</span>
+                        <h5 class="client-name">Atria Jakarta</h5>
+                        <span class="client-description font-alt-1">Jakarta</span>
                     </div>
                     <div class="grid-item">
-                        <h5 class="client-name">Mohan Residence</h5>
+                        <h5 class="client-name">Ulaman Eco Retreat</h5>
                         <span class="client-description font-alt-1">Bali</span>
                     </div>
                     <div class="grid-item">

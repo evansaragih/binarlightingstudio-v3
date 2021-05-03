@@ -177,20 +177,76 @@ Route::get('en/projects/the-suku', function () {
     return view('en.projects.the_suku');
 });
 
-Route::get('en/projects/adiwana-jelita', function () {
+Route::get('en/projects/adiwana-jelita-sejuba', function () {
     return view('en.projects.adiwana_jelita');
-});
-
-Route::get('en/projects/pizza-stack', function () {
-    return view('en.projects.pizza_stack');
 });
 
 Route::get('en/projects/byrdhouse', function () {
     return view('en.projects.byrdhouse');
 });
 
-Route::get('en/projects/diageo-office', function () {
-    return view('en.projects.diageo_office');
+Route::get('en/projects/atria-sudirman', function () {
+    return view('en.projects.atria_sudirman');
+});
+
+Route::get('en/projects/semaon-estate', function () {
+    return view('en.projects.semaon_estate');
+});
+
+Route::get('en/projects/beachouse', function () {
+    return view('en.projects.beachouse');
+});
+
+Route::get('en/projects/locavore', function () {
+    return view('en.projects.locavore');
+});
+
+Route::get('en/projects/alam-sutera-residence', function () {
+    return view('en.projects.alam_sutera_residence');
+});
+
+Route::get('en/projects/cafe-ampera', function () {
+    return view('en.projects.cafe_ampera');
+});
+
+Route::get('en/projects/fat-turtle', function () {
+    return view('en.projects.fat_turtle');
+});
+
+Route::get('en/projects/imans-residence', function () {
+    return view('en.projects.imans_residence');
+});
+
+Route::get('en/projects/jabir-residence', function () {
+    return view('en.projects.jabir_residence');
+});
+
+Route::get('en/projects/mg-beachwalk', function () {
+    return view('en.projects.mg_beachwalk');
+});
+
+Route::get('en/projects/mr-mohan', function () {
+    return view('en.projects.mr_mohan');
+});
+
+Route::get('en/projects/musium-quran', function () {
+    return view('en.projects.musium_quran');
+});
+
+Route::get('en/projects/pizza-stack', function () {
+    return view('en.projects.pizza_stack');
+});
+
+Route::get('en/projects/pp-pekanbaru', function () {
+    return view('en.projects.pp_pekanbaru');
+});
+
+Route::get('en/projects/ranch', function () {
+    return view('en.projects.ranch');
+});
+
+Route::get('en/projects/siligita-house', function () {
+    return view('en.projects.siligita_house');
 });
 
 Route::get('id/projects', function () {
@@ -313,9 +369,14 @@ Route::get('en/lighting101', function () {
     // return redirect()->route('maintenance');
 });
 
-Route::get('en/blog', function () {
-    return view('en.blog1');
+Route::get('en/lighting101/stay-creative-at-home-1', function () {
+    return view('en.lighting-101.blog1');
 });
+
+Route::get('en/lighting101/contrast-lighting', function () {
+    return view('en.lighting-101.blog2');
+});
+
 
 Route::get('id/lighting101', function () {
     // return view('id.lighting-101');

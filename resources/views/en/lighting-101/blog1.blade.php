@@ -7,7 +7,7 @@
 <div class="content clearfix">
 
   <!-- Intro Title Section 2 -->
-  <div class="section-block intro-title-2 intro-title-2-4">
+  <div class="section-block intro-title-2 intro-title-2-6">
     <div class="row">
       <div class="column width-12">
         <div class="title-container">

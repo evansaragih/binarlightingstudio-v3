@@ -7,12 +7,12 @@
 <div class="content clearfix">
 
   <!-- Intro Title Section 2 -->
-  <div class="section-block intro-title-2 intro-title-2-4">
+  <div class="section-block intro-title-2 intro-title-2-5">
     <div class="row">
       <div class="column width-12">
         <div class="title-container">
           <div class="title-container-inner">
-            <h1 class="inline no-margin-bottom">Stay Creative at Home #1</h1>
+            <h1 class="inline no-margin-bottom">Contrast Lighting</h1>
           </div>
         </div>
       </div>
@@ -24,7 +24,7 @@
     <div class="post-info boxed">
       <div class="row">
         <div class="column width-12 ">
-          <span class="post-home"><a href="{{ url('/en/lighting101') }}" class="post-love"><span class="icon-home"></span>Lighting 101</a></span>/<span class="post-date">May 2020</span>/<span class="post-autor">By <a href="https://www.binarlightingstudio.com">BINAR </a> Collaboration with <a href="https://www.bada-studio.com/">BADA Studio</a></span>/<span class="fb-comments-count" data-href="http://127.0.0.1:8000/en/blog"></span> comments
+          <span class="post-home"><a href="{{ url('/en/lighting101') }}" class="post-love"><span class="icon-home"></span>Lighting 101</a></span>/<span class="post-date">June 2020</span>/<span class="post-autor">By <a href="https://www.binarlightingstudio.com">BINAR </a> /<span class="fb-comments-count" data-href="http://127.0.0.1:8000/en/blog"></span> comments
         </div>
       </div>
     </div>
@@ -44,130 +44,226 @@
             <!-- <div class="post-info">
 										<span class="post-date">17 Jul 2015</span>/<span class="post-autor">By <a href="#">Samuel</a></span>/<span class="post-love"><a href="#" class="post-love"><span class="icon-heart"></span>768</a></span>
 									</div> -->
-            <h3>Who is BADA?</h3>
-            <p>BADA is a Bali based architecture studio. Their worked are focused on
-              sustainable architecture based on locality of place and people. The project
-              they work on are mostly in Bali and Lombok and some area overseas. They
-              specialized in residential and hospitality projects.
+            <!-- <h3>Who is BADA?</h3> -->
+            <p>
+              In the lighting world, there is one ‘strategy’ to fulfil aesthetics and at the
+              same time provide the lighting needs is called a contrast lighting strategy.
+              These contrast lighting can be divided into several types of ratios:<br>
+              1. Dark & Light Ratio <br>
+              2. Brightness Ratio <br>
+              3. Beam Angle <br>
+              4. Color <br>
             </p>
 
-            <blockquote class="border large" hidden>
-              <p>What is Exactly Our Collaboration About?</p>
-              <cite>Steve Jobs</cite>
-            </blockquote>
-
-            <h3>What is Exactly Our Collaboration About?</h3>
-            <p>COVID 19 is the most famous keyword in entire world wide. The impact of
-              this virus is something historical. As people in creative industry we decided
-              to create something useful for social and people around us.
-            </p>
-
-            <h3>Work From Home?</h3>
-            <p>Based on the latest data, most of companies support <b>"WORK FROM HOME"</b> movement.
-              Google has confirmed to ask their employee for working at home until this end of year.
-              Therefore, we agreed to share tips for composing <b>"work mood"</b> into your room at home.
-              BADA will share tips from architect and interior side. Meanwhile us, as always will share to you
-              about how important lighting in this curent situation.
-            </p>
-
-            <blockquote class="border large mb-50">
-              <h2>Good Lighting Is Everything</h2>
-              <cite>#STAYCREATIVEATHOME</cite>
-            </blockquote>
-
             <div class="row mb-50">
               <div class="column width-6">
-                <h3>1. Too Much?</h3>
-                <p>Here is the example of the common mistake that we used to think as good lighting which is, bright.</p>
-                <p>But as the result, you don't have any ambiance at all. Too much or lack of lighting level (too dark)
-                  can make your eyes strain easily which effect your productivity.</p>
-              </div>
-              <div class="column width-6">
-                <div class="thumbnail">
-                  <img src="/assets/img/lighting101/Bada/image_2.jpg" alt="">
-                  <div class="caption-below">
-                    picture by: BINAR
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row mb-50">
-              <div class="column width-6">
-                <h3>2. Yes I Like it, Do you?</h3>
-                <p>You have task and ambiance lighting at the same time.</p>
-                <p>It would be perfect if you can apply dimmable lights so you can create a larger variety of scenes.</p>
-              </div>
-              <div class="column width-6">
-                <div class="thumbnail">
-                  <img src="/assets/img/lighting101/Bada/image_3.jpg" alt="">
-                  <div class="caption-below">
-                    picture by: BINAR
-                  </div>
-                </div>
-              </div>
-            </div>
-            <blockquote class="border large mb-60">
-              <h2>Let Us Give You More Ideas</h2>
-              <cite>#STAYCREATIVEATHOME</cite>
-            </blockquote>
-            <div class="row mb-50">
-              <div class="column width-6">
-                <h3>3. Becareful!</h3>
-                <p>Yes, in order to have a good lighting you have to consider the light placement as well.</p>
-                <p>Here is the example, you will create glare and bad shadows. Not really ideal for video conference call.</p>
-              </div>
-              <div class="column width-6">
-                <div class="thumbnail">
-                  <img src="/assets/img/lighting101/Bada/image_4.jpg" alt="">
-                  <div class="caption-below">
-                    picture by: BINAR
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row mb-50">
-              <div class="column width-6">
-                <h3>4. Yes, decorative!</h3>
-                <p>You can use your decorative pendants as task lighting! But becareful when choosing your pendant, select one which gives focused light and a minimum amount of glare.</p>
-              </div>
-              <div class="column width-6">
-                <div class="thumbnail">
-                  <img src="/assets/img/lighting101/Bada/image_5.jpg" alt="">
-                  <div class="caption-below">
-                    picture by: BINAR
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row mb-50">
-              <div class="column width-6">
-                <h3>5. Specification matter!</h3>
-                <p>If you choose the wrong light, it may become too focused on the center of the table.
-                  Too much contrast around your range, easily makes you eyes tired. You can see the dark
-                  spot on your table and in some areas around the room.
+                <h3>1. Dark & Light Ratio</h3>
+                <p>
+                  In image number 1, it can be seen that there is an object that has a higher
+                  dark ratio with a backdrop of a wall object that has a higher light ratio.
+                  It will create a backlit effect.
                 </p>
-                <p>I bet you will not be able to work more than 30 minutes in this situations.</p>
               </div>
               <div class="column width-6">
                 <div class="thumbnail">
-                  <img src="/assets/img/lighting101/Bada/image_6.jpg" alt="">
+                  <img src="/assets/img/lighting101/contrast-lighting/image-1.jpg" alt="">
                   <div class="caption-below">
                     picture by: BINAR
                   </div>
                 </div>
-                <p class="mb-50">Light up other lamp surrounding your working area! The advantage of using dimmer system, that you can control
-                  the surrouding lights to be dimmed down. Contrast is good, but not for working. We'll have another coure coming up,
-                  explaining contrast in lighting.
+              </div>
+            </div>
+            <div class="row mb-50">
+              <div class="column width-6">
+                <h3>2. Brightness Ratio</h3>
+                <p>
+                  It would be perfect if you can apply dimmable lights so you can create a
+                  larger variety of scenes.
                 </p>
+              </div>
+              <div class="column width-6">
                 <div class="thumbnail">
-                  <img src="/assets/img/lighting101/Bada/image_7.jpg" alt="">
+                  <img src="/assets/img/lighting101/contrast-lighting/image-2.jpg" alt="">
                   <div class="caption-below">
                     picture by: BINAR
                   </div>
                 </div>
-                <p>Linear pendant up and downlights. Decorative and task lighting on table and add more
-                  ambiance in your ceiling.
+              </div>
+            </div>
+            <div class="row mb-50">
+              <div class="column width-6">
+                <h3>3. Beam Angle</h3>
+                <p>
+                  Using several types of degrees, fixture lighting can create various effects
+                  for lightning design in a room. Referring to image number 3, where the light
+                  was placed in a narrow degree of the hallway to emphasize the wall areas.
+                  Whilst the large degree of downlight functioned as the general lighting for
+                  the middle of the corridor.
                 </p>
+              </div>
+              <div class="column width-6">
+                <div class="thumbnail">
+                  <img src="/assets/img/lighting101/contrast-lighting/image-3.jpg" alt="">
+                  <div class="caption-below">
+                    picture by: BINAR
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row mb-50">
+              <div class="column width-6">
+                <h3>4. Color</h3>
+                <p>
+                  The use and combination of CCT lights in one room is something that is
+                  currently admired.
+                </p>
+              </div>
+              <div class="column width-6">
+                <div class="thumbnail">
+                  <img src="/assets/img/lighting101/contrast-lighting/image-4.jpg" alt="">
+                  <div class="caption-below">
+                    picture by: BINAR
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p>
+            A handful of clients/users are beginning to understand the importance of lighting
+            and what flat ambiance means. A function of a room differs from time to time, as
+            users themselves like the idea of change. It is no longer secret that lighting
+            plays an important factor in achieving the maximum function of the room.
+            The use of lighting points in areas that are less precise and do not fulfill the
+            4 ratios contrast lighting before is what causes flat lighting.
+          </p>
+          <p>
+            Nevertheless, that does not mean contrast lighting is only about the dark to light
+            ratios and the various color types that are being used. Lighting Science is not
+            only about aesthetics driven but a combination of physics as well. There are special
+            calculations that must be taken into account when deciding on when to apply lighting
+            ratios in lighting contrast.
+          </p>
+          <p>
+            The picture below is showcasing what not to do.
+          </p>
+          <div class="row mb-50">
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-5.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-6.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-7.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-8.jpg" alt="">
+              </div>
+            </div>
+          </div>
+          <p>
+            The use of dark and light ratio on the study table, as an example, can affect a
+            user's eyes faster and make them tired quicker, and understanding the psychology
+            of the body, our body does not support darkroom conditions.
+          </p>
+          <blockquote class="border large mb-60">
+            <h2>Contrast lighting can function to any needs of the room. </h2>
+          </blockquote>
+          <p>
+            There is a standard calculation of the maximum and minimum lux in a room that has
+            been studied by lighting experts for a long time, which can be our guidance to design
+            the lighting in certain areas.
+            For example in a workspace of a home, the standard to use the available lux in a
+            room has been set, and to produce this lux, we can play with lighting contrast by
+            utilizing the surrounding interior and maximizing the architectural elements.
+            Then, in the case of special properties such as resorts and galleries. We can use
+            more dramatic impressions to enrich the shape of the building.
+          </p>
+
+          <h3 style="text-align: center;">Contrast Dramatic</h3>
+          <div class="row mb-50">
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-9.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-10.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-11.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-12.jpg" alt="">
+              </div>
+            </div>
+          </div>
+
+          <h3 style="text-align: center;">Contrast Idea For Focal Point</h3>
+          <div class="row mb-50">
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-13.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-14.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-15.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-16.jpg" alt="">
+              </div>
+            </div>
+          </div>
+
+          <h3 style="text-align: center;">Contrast Idea For Circulation and Pathway</h3>
+          <div class="row mb-50">
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-17.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-18.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-19.jpg" alt="">
+              </div>
+            </div>
+            <div class="column width-6">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-20.jpg" alt="">
+              </div>
+            </div>
+          </div>
+
+          <h3 style="text-align: center;">Example of Contrast Lighting in our project</h3>
+          <div class="row mb-50">
+            <div class="column width-12">
+              <div class="thumbnail">
+                <img src="/assets/img/lighting101/contrast-lighting/image-21.jpg" alt="">
               </div>
             </div>
           </div>
