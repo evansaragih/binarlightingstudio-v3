@@ -210,10 +210,10 @@
                                         <a href="{{ url('/en/lighting101')}}">Lighting 101</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="contains-sub-menu"><span class="icon-language"></span> Language</a>
+                                        <a href="#" class="contains-sub-menu"><span class="icon-language"></span> 🇺🇸</a>
                                         <ul class="sub-menu">
                                             <li class="@yield('nav-indonesian')">
-                                                <a>Indonesia (Segera Tersedia)</a>
+                                                <a>🇲🇨 (Segera Tersedia)</a>
                                             </li>
                                             <li class="@yield('nav-english')">
                                                 <a href="{{ url('/en') }}">English</a>
