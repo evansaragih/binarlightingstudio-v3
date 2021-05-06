@@ -32,9 +32,8 @@
   <!-- Service Section -->
   <section class="section-block replicable-content bkg-blue-binar-body">
     <div class="row">
-      <div class="column width-6">
-        <h2 class="mb-50">Our Philosophy</h2>
-        <p class="mb-50">
+      <div class="column width-8 offset-2">
+        <h5 class="mb-70" style="line-height: 30px; text-align: center;">
           The fundamental Philosophy of BINAR is taken from the meaning
           of word <i>BINAR</i> (in Bahasa), or a twinkle (in English),
           which means "emission of light". This combined with the
@@ -44,41 +43,37 @@
           can be formed, and can fill spaces and fields. BINAR is
           independent and can always develop and follow situations and
           conditions flexibly.
-        </p>
-      </div>
-      <div class="column width-5 offset-1">
-        <div class="row content-grid-2 flex">
-          <img src="/assets/img/general/about-philosophy.jpg" width="760" height="300" alt="" />
-        </div>
+        </h5>
       </div>
     </div>
-  </section>
-  <!-- Service Section End -->
-
-  <!-- Service Section -->
-  <section class="section-block replicable-content bkg-blue-binar-body">
     <div class="row">
-      <div class="column width-5">
-        <h2 class="mb-50">Our Story</h2>
-        <p>
-          The story initially began in 2019 by 3 Co-founder co-operating to work on lighting &
-          architectural projects. After much discussion & consideration, the three agreed to continue
-          this collaboration on behalf of themselves and finally formed Binar. Currently, Binar is based
-          in Bali to catch up with the Central & East Indonesia market.
-        </p>
-        <p class="mb-100">
-          The main & essential activity of Binar lies in the field of architectural lighting design, where
-          Binar produces lighting designs that support architects, interior designers, &
-          artists/landscape designers to show the best side of their creations. Lighting design is made
-          to strengthen the aesthetic value of the whole space (building/interior/ landscape)
-          smoothly, without contradicting or reducing the original purpose & basic functions of itself
-        </p>
+      <div class="column width-12">
+        <h2 class="mb-50" style="text-align: center;">Our Story</h2>
+        <div class="row">
+          <div class="column width-6">
+            <p>
+              The story initially began in 2019 by 3 Co-founder co-operating to work on lighting &
+              architectural projects. After much discussion & consideration, the three agreed to continue
+              this collaboration on behalf of themselves and finally formed Binar. Currently, Binar is based
+              in Bali to catch up with the Central & East Indonesia market.
+            </p>
+          </div>
+          <div class="column width-6">
+            <p class="mb-100">
+              The main & essential activity of Binar lies in the field of architectural lighting design, where
+              Binar produces lighting designs that support architects, interior designers, &
+              artists/landscape designers to show the best side of their creations. Lighting design is made
+              to strengthen the aesthetic value of the whole space (building/interior/ landscape)
+              smoothly, without contradicting or reducing the original purpose & basic functions of itself
+            </p>
+          </div>
+        </div>
       </div>
-      <div class="column width-6 offset-1">
-        <div class="row content-grid-1 flex">
+      <div class="column width-12">
+        <div class="row content-grid-3 flex">
           <div class="grid-item no-margin-bottom">
-            <h6 class="mb-30 weight-bold text-uppercase">Vision</h6>
-            <p class="mb-50">
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Vision</h4>
+            <p style="text-align: center;">
               Binar has the vision to become a trusted
               lighting consultant & to assist project
               correspondent by providing design services &
@@ -88,8 +83,8 @@
             </p>
           </div>
           <div class="grid-item no-margin-bottom">
-            <h6 class="mb-30 weight-bold text-uppercase">Missions</h6>
-            <p class="mb-50">
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Missions</h4>
+            <p style="text-align: center;">
               To train and maintain Binar's
               competence in the field of
               lighting design, by growing &
@@ -98,8 +93,8 @@
             </p>
           </div>
           <div class="grid-item no-margin-bottom">
-            <h6 class="mb-30 weight-bold text-uppercase">Values</h6>
-            <p>
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Values</h4>
+            <p style="text-align: center;">
               Binar has a value that underlies all company activities, "To provide services that
               accommodate client needs while addressing the problem as best as possible, in the most
               creative way possible, using all available resources, to complete work properly, following
@@ -112,34 +107,113 @@
   </section>
   <!-- Service Section End -->
 
-  <!-- Hero 5 Section -->
-  <div class="section-block hero-5 left show-media-column-on-mobile" style="background-color: #b36c01">
-    <div class="media-column width-6 center horizon" data-animate-in="preset:slideInRightShort;duration:1000ms;delay:200ms;" data-threshold="0.6">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/bIigCRnpIMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+  <!-- About Section -->
+  <section class="section-block replicable-content bkg-blue-binar-body2">
     <div class="row">
-      <div class="column width-6 push-7">
-        <div class="hero-content split-hero-content">
-          <div class="hero-content-inner left">
-            <h3 class="">BINAR A LIGHTING STUDIO</h3>
-            <p class="lead mb-30">Lighting Consultant</p>
-            <p>
-              Binar is a flexible and innovative company. Binar translate
-              client needs into an idea developed with dozens of
-              brainstorming processes, amplifying clients based designs
-              into something much broader, creating a visually pleasing
-              impression, even through concepts. Binar also follows trends, updating resources & references by
-              always studying the latest technologies, comprehending
-              unique solutions to lighting engineering, & perceiving new
-              artistic & functional design. All to be the best lighting
-              consultant pick for you to choose.
+      <div class="column width-12">
+        <h2 class="mb-50" style="text-align: center;">Our Strength</h2>
+      </div>
+      <div class="column width-6 offset-3">
+        <div class="row content-grid-1 flex">
+          <div class="grid-item no-margin-bottom">
+            <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Experienced Designer</h4>
+            <p style="text-align: center;" class="mb-80">
+              We provide services that accommodate client needs while addressing the problem as best as possible, in the most creative way possible, using all available resources, to complete work properly, following the time agreed.
+            </p>
+          </div>
+          <div class="grid-item no-margin-bottom">
+            <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Flexible in Creativity</h4>
+            <p style="text-align: center;" class="mb-80">
+              Our main & essential activity lies in the field of architectural lighting design, where we produces lighting designs that support architects, interior designers, & artists/landscape designers to show the best side of their creations. Lighting design is made to strengthen the aesthetic value of the whole space (building/interior/ landscape) smoothly, without contradicting or reducing the original purpose & basic functions of itself.
+            </p>
+          </div>
+          <div class="grid-item no-margin-bottom">
+            <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Communicative Team</h4>
+            <p style="text-align: center;" class="mb-80">
+              We translate client needs into an idea developed with dozens of brainstorming processes, amplifying clients based designs into something much broader, creating a visually pleasing impression, even through concepts. We also follows trends, updating resources & references by always studying the latest technologies, comprehending unique solutions to lighting engineering, & perceiving new artistic & functional design. All to be the best lighting consultant pick for you to choose.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- About Section End -->
+
+  <!-- Team Grid -->
+  <div id="binar-hiring" class="section-block team-1 bkg-blue-binar-body">
+    <div class="row horizon" data-animate-in="preset:slideInRightShort;duration:1000ms;" data-threshold="0.4">
+      <div class="column width-8 offset-2" style="text-align: center;">
+        <h2 class="mb-30">Our Service</h2>
+        <p class="mb-80">
+          Architect's duty is to create the blank space, while the light creates souls,
+          filling in the blanks with life. A combination that creates balance and
+          interdependency within a system.
+        </p>
+      </div>
+      <div class="column width-12">
+        <div class="row content-grid-3 flex">
+          <div class="grid-item no-margin-bottom">
+            <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Architectural Lighting</h4>
+            <p style="text-align: center;" class="mb-80">
+              We collaborate with the architect(s) in developing the concept of the building and its surroundings to get the right visualisation of the façade and exterior area, with aspects around lighting level, brightness contrast, safety aspect, eye sights and in particularly during evening time.  
+            </p>
+          </div>
+          <div class="grid-item no-margin-bottom">
+            <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Interior Lighting</h4>
+            <p style="text-align: center;" class="mb-80">
+              Moving into the building, we collaborate with interior designer to get the right suitable lighting ambiance based on the designed space to calculate the lighting level, brightness contrast, eye sights and safety aspect.  
+            </p>
+          </div>
+          <div class="grid-item no-margin-bottom">
+            <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
+            <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Landscape Lighting</h4>
+            <p style="text-align: center;" class="mb-80">
+              More to intangible aspect of lighting design, the landscape design supports the architectural value of the premises, thus, we collaborate with the landscape designer to understand the right amount of the lighting needed to build senses of comfort, safety and balance.  
             </p>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <!-- Hero 5 Section End -->
+  <!-- Team Grid End -->
+
+  <!-- About Section -->
+  <section class="section-block replicable-content bkg-blue-binar-body2">
+    <div class="row mb-50">
+      <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;" data-threshold="1">
+        <h3 class="mb-30">Inquiries</h3>
+        <p>
+          For any and all questions concering a project or any
+          inquiery, please just drop us an email or whatsapp.
+        </p>
+        <a href="mailto:customer-care@binarlightingstudio.com" class="medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-0 mb-mobile-50">customer-care@binarlightingstudio.com</a>
+        <a href="https://api.whatsapp.com/send?phone=6287874755277&text=Halo...%0ASaya%20baru%20saja%20mengunjungi%20website%20BINAR%20a%20Lighting%20Studio.%20Namun%20ada%20beberapa%20hal%20yang%20saya%20ingin%20tanyakan.%20Saya%20mohon%20bantuannya%20lebih%20lanjut%20terkait%20hal%20yang%20saya%20ingin%20tanyakan." class="medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-40 mb-mobile-50">Whatsapp Business</a>
+      </div>
+      <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1">
+        <h3 class="mb-30">Press Related</h3>
+        <p>
+          For all press related questions, to receive a press kit or
+          to speak to a press representative please shoot us an email.
+        </p>
+        <a href="mailto:info-press" class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-40">info-press@binarlightingstudio.com</a>
+      </div>
+      <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1">
+        <h3 class="mb-30">Our Office</h3>
+        <p>
+          Jl. Padang Griya III No.3, Padang Sambian, West Denpasar,
+          Denpasar City, Bali Province
+          80118.
+        </p>
+        <a href="https://goo.gl/maps/NtPxidESbxsLAK3m8" class=" medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-40">Open Map</a>
+      </div>
+    </div>
+  </section>
+  <!-- About Section End -->
 
   <!-- Team Grid -->
   <div class="section-block replicable-content team-2 bkg-blue-binar-body" id="official-channels">

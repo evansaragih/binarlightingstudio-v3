@@ -100,7 +100,7 @@
                             <a class="contains-sub-menu">Language</a>
                             <ul class="sub-menu">
                                 <li class="@yield('nav-indonesian')">
-                                    <a href="{{ url('/id') }}">Indonesia</a>
+                                    <a>Indonesia (Segera Tersedia)</a>
                                 </li>
                                 <li class="@yield('nav-english')">
                                     <a href="{{ url('/en') }}">English</a>
@@ -138,22 +138,14 @@
                                         <!-- Dropdown Cart Overview -->
                                         <div class="dropdown">
                                             <a href="#" class="nav-icon cart button no-page-fade"><span class="cart-indication"><span class="icon-bell"></span>
-                                                    <span class="badge">2</span></span></a>
+                                                </span></a>
                                             <ul class="dropdown-list custom-content cart-overview">
                                                 <li class="cart-item">
                                                     <div class="product-details">
                                                         <a href="{{ url('/en/maintenance') }}" class="product-title">
-                                                            Some of the pages may still be under development. We'll finish it very soon.
+                                                            Our Studio will be closed from 12th - 14th May 2021
                                                         </a>
-                                                        <span class="product-quantity">📢Maintenance</span>
-                                                    </div>
-                                                </li>
-                                                <li class="cart-item">
-                                                    <div class="product-details">
-                                                        <a href="https://www.instagram.com/binar_alightingstudio/" class="product-title">
-                                                            Check Our New Post on Instagram
-                                                        </a>
-                                                        <span class="product-quantity">@binar_alightingstudio</span>
+                                                        <span class="product-quantity">📢 Notification</span>
                                                     </div>
                                                 </li>
                                             </ul>
@@ -221,7 +213,7 @@
                                         <a href="#" class="contains-sub-menu"><span class="icon-language"></span> Language</a>
                                         <ul class="sub-menu">
                                             <li class="@yield('nav-indonesian')">
-                                                <a href="{{ url('/id') }}">Bahasa Indonesia</a>
+                                                <a>Indonesia (Segera Tersedia)</a>
                                             </li>
                                             <li class="@yield('nav-english')">
                                                 <a href="{{ url('/en') }}">English</a>
@@ -311,7 +303,17 @@
             <!-- Footer End -->
         </div>
     </div>
-    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="6d0dec1c-efd5-4aa4-bab8-c573b2ad2fc8";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    <script type="text/javascript">
+        window.$crisp = [];
+        window.CRISP_WEBSITE_ID = "6d0dec1c-efd5-4aa4-bab8-c573b2ad2fc8";
+        (function() {
+            d = document;
+            s = d.createElement("script");
+            s.src = "https://client.crisp.chat/l.js";
+            s.async = 1;
+            d.getElementsByTagName("head")[0].appendChild(s);
+        })();
+    </script>
 
     <!--Start of Tawk.to Script-->
     <!-- <script type="text/javascript">
@@ -330,16 +332,22 @@
     <!--End of Tawk.to Script-->
 
     <!-- Hotjar Tracking Code for https://www.binarlightingstudio.com -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:2371987,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
+    <script>
+        (function(h, o, t, j, a, r) {
+            h.hj = h.hj || function() {
+                (h.hj.q = h.hj.q || []).push(arguments)
+            };
+            h._hjSettings = {
+                hjid: 2371987,
+                hjsv: 6
+            };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script');
+            r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
 
     <!-- Js -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
