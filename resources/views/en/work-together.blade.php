@@ -33,11 +33,105 @@
     </section>
     <!-- Full Width Slider Section -->
 
+    <!-- Contact Us Section -->
+    <section class="section-block replicable-content bkg-blue-binar-body">
+        <div class="row mb-50">
+            <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;" data-threshold="1">
+                <h3 class="mb-30">Inquiries</h3>
+                <p>
+                    For any and all questions concering a project or any
+                    inquiery, please just drop us an email or whatsapp.
+                </p>
+                <a href="mailto:customer-care@binarlightingstudio.com" class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-20 mb-mobile-50">customer-care@binarlightingstudio.com</a>
+                <a href="https://api.whatsapp.com/send?phone=6287874755277&text=Halo...%0ASaya%20baru%20saja%20mengunjungi%20website%20BINAR%20a%20Lighting%20Studio.%20Namun%20ada%20beberapa%20hal%20yang%20saya%20ingin%20tanyakan.%20Saya%20mohon%20bantuannya%20lebih%20lanjut%20terkait%20hal%20yang%20saya%20ingin%20tanyakan." class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-40 mb-mobile-50">Whatsapp Business</a>
+            </div>
+            <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1">
+                <h3 class="mb-30">Press Related</h3>
+                <p>
+                    For all press related questions, to receive a press kit or
+                    to speak to a press representative please shoot us an email.
+                </p>
+                <a href="mailto:info-press" class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-50">info-press@binarlightingstudio.com</a>
+            </div>
+            <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1">
+                <h3 class="mb-30">Our Office</h3>
+                <p>
+                    Jl. Padang Griya III No.3, Padang Sambian, West Denpasar,
+                    Denpasar City, Bali Province
+                    80118. <br>Telp. +62 878-7475-5577
+                </p>
+                <a href="https://goo.gl/maps/NtPxidESbxsLAK3m8" class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-20">Open Map</a>
+            </div>
+        </div>
+        <div class="row team-2">
+            <div class="column width-12">
+                <h2 class="mb-50 center">Official Channels</h2>
+            </div>
+            <div class="column width-12">
+                <div class="row content-grid-5">
+                    <div class="grid-item horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;" data-threshold="0.3">
+                        <div class="thumbnail no-margin-bottom" data-hover-easing="easeInOut" data-hover-speed="500" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                            <img src="/assets/img/general/channel-facebook.jpg" width="760" height="500" alt="" />
+                        </div>
+                        <div class="team-content-info">
+                            <h4 class="mb-5">Facebook</h4>
+                            <h4 class="occupation" style="text-transform: capitalize">
+                                <span class="icon-facebook"></span>
+                                binar a lighting studio
+                            </h4>
+                            <a href="#" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">Facebook</a>
+                        </div>
+                    </div>
+                    <div class="grid-item horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:300ms;" data-threshold="0.3">
+                        <div class="thumbnail no-margin-bottom" data-hover-easing="easeInOut" data-hover-speed="500" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                            <img src="/assets/img/general/channel-instagram.jpg" width="760" height="500" alt="" />
+                        </div>
+                        <div class="team-content-info">
+                            <h4 class="mb-5">Instagram</h4>
+                            <h4 class="occupation" style="text-transform: lowercase">
+                                <span class="icon-instagram"></span>
+                                binar_alightingstudio
+                            </h4>
+                            <a href="#" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">Instagram</a>
+                        </div>
+                    </div>
+                    <div class="grid-item horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:600ms;" data-threshold="0.3">
+                        <div class="thumbnail no-margin-bottom" data-hover-easing="easeInOut" data-hover-speed="500" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                            <img src="/assets/img/general/channel-pinterest.jpg" width="760" height="500" alt="" />
+                        </div>
+                        <div class="team-content-info">
+                            <h4 class="mb-5">Pinterest</h4>
+                            <h4 class="occupation" style="text-transform: capitalize">
+                                <span class="icon-pinterest"></span> Binar a Lighting
+                                Studio
+                            </h4>
+                            <a href="#" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">Pinterest</a>
+                        </div>
+                    </div>
+                    <div class="grid-item horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:600ms;" data-threshold="0.3">
+                        <div class="thumbnail no-margin-bottom" data-hover-easing="easeInOut" data-hover-speed="500" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
+                            <img src="/assets/img/general/channel-youtube.jpg" width="760" height="500" alt="" />
+                        </div>
+                        <div class="team-content-info">
+                            <h4 class="mb-5">Youtube</h4>
+                            <h4 class="occupation" style="text-transform: capitalize">
+                                <span class="icon-youtube"></span> Binar a Lighting
+                                Studio
+                            </h4>
+                            <a href="#" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">Youtube</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Contact Us Section End -->
+
     <!-- Contact Form -->
     <section class="section-block replicable-content contact-2">
         <div class="row">
             <div class="column width-8 offset-2 center">
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegaHngmktsBPxWUyQV1kBVbuyVSLcF2s7Ko4Cl5z3_wzj7rw/viewform?embedded=true" width="640" height="650" frameborder="0" marginheight="0" marginwidth="0" class="bkg-blue-binar-body">Memuat…</iframe>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegaHngmktsBPxWUyQV1kBVbuyVSLcF2s7Ko4Cl5z3_wzj7rw/viewform?embedded=true" width="640" height="650" frameborder="0" marginheight="0" marginwidth="0" style="background-color: white">Memuat…</iframe>
                 <div class="contact-form-container" hidden>
                     <form class="contacts-form" action="/en/services/work-together" method="post">
                         @csrf

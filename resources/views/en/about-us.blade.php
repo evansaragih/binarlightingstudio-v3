@@ -159,121 +159,22 @@
             <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
             <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Architectural Lighting</h4>
             <p style="text-align: center;" class="mb-80">
-              We collaborate with the architect(s) in developing the concept of the building and its surroundings to get the right visualisation of the façade and exterior area, with aspects around lighting level, brightness contrast, safety aspect, eye sights and in particularly during evening time.  
+              We collaborate with the architect(s) in developing the concept of the building and its surroundings to get the right visualisation of the façade and exterior area, with aspects around lighting level, brightness contrast, safety aspect, eye sights and in particularly during evening time.
             </p>
           </div>
           <div class="grid-item no-margin-bottom">
             <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
             <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Interior Lighting</h4>
             <p style="text-align: center;" class="mb-80">
-              Moving into the building, we collaborate with interior designer to get the right suitable lighting ambiance based on the designed space to calculate the lighting level, brightness contrast, eye sights and safety aspect.  
+              Moving into the building, we collaborate with interior designer to get the right suitable lighting ambiance based on the designed space to calculate the lighting level, brightness contrast, eye sights and safety aspect.
             </p>
           </div>
           <div class="grid-item no-margin-bottom">
             <img class="mb-50" src="/assets/img/general/recruit-drafter.png" alt="hiring drafter" width="100%" />
             <h4 class="mb-30 weight-bold text-uppercase" style="text-align: center;">Landscape Lighting</h4>
             <p style="text-align: center;" class="mb-80">
-              More to intangible aspect of lighting design, the landscape design supports the architectural value of the premises, thus, we collaborate with the landscape designer to understand the right amount of the lighting needed to build senses of comfort, safety and balance.  
+              More to intangible aspect of lighting design, the landscape design supports the architectural value of the premises, thus, we collaborate with the landscape designer to understand the right amount of the lighting needed to build senses of comfort, safety and balance.
             </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Team Grid End -->
-
-  <!-- About Section -->
-  <section class="section-block replicable-content bkg-blue-binar-body2">
-    <div class="row mb-50">
-      <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;" data-threshold="1">
-        <h3 class="mb-30">Inquiries</h3>
-        <p>
-          For any and all questions concering a project or any
-          inquiery, please just drop us an email or whatsapp.
-        </p>
-        <a href="mailto:customer-care@binarlightingstudio.com" class="medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-0 mb-mobile-50">customer-care@binarlightingstudio.com</a>
-        <a href="https://api.whatsapp.com/send?phone=6287874755277&text=Halo...%0ASaya%20baru%20saja%20mengunjungi%20website%20BINAR%20a%20Lighting%20Studio.%20Namun%20ada%20beberapa%20hal%20yang%20saya%20ingin%20tanyakan.%20Saya%20mohon%20bantuannya%20lebih%20lanjut%20terkait%20hal%20yang%20saya%20ingin%20tanyakan." class="medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-40 mb-mobile-50">Whatsapp Business</a>
-      </div>
-      <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1">
-        <h3 class="mb-30">Press Related</h3>
-        <p>
-          For all press related questions, to receive a press kit or
-          to speak to a press representative please shoot us an email.
-        </p>
-        <a href="mailto:info-press" class="button medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-40">info-press@binarlightingstudio.com</a>
-      </div>
-      <div class="column width-4 horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;" data-threshold="1">
-        <h3 class="mb-30">Our Office</h3>
-        <p>
-          Jl. Padang Griya III No.3, Padang Sambian, West Denpasar,
-          Denpasar City, Bali Province
-          80118.
-        </p>
-        <a href="https://goo.gl/maps/NtPxidESbxsLAK3m8" class=" medium bkg-blue-binar color-blue-binar color-hover-blue-binar mb-40">Open Map</a>
-      </div>
-    </div>
-  </section>
-  <!-- About Section End -->
-
-  <!-- Team Grid -->
-  <div class="section-block replicable-content team-2 bkg-blue-binar-body" id="official-channels">
-    <div class="row">
-      <div class="column width-12">
-        <h2 class="mb-50 center">Official Channels</h2>
-      </div>
-      <div class="column width-12">
-        <div class="row content-grid-3">
-          <div class="grid-item horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;" data-threshold="0.3">
-            <div class="thumbnail no-margin-bottom" data-hover-easing="easeInOut" data-hover-speed="500" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
-              <img src="/assets/img/general/channel-facebook.jpg" width="760" height="500" alt="" />
-            </div>
-            <div class="team-content-info">
-              <h4 class="mb-5">Facebook</h4>
-              <h4 class="occupation" style="text-transform: capitalize">
-                <span class="icon-facebook"></span>
-                binar a lighting studio
-              </h4>
-              <a href="#" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">Facebook</a>
-            </div>
-          </div>
-          <div class="grid-item horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:300ms;" data-threshold="0.3">
-            <div class="thumbnail no-margin-bottom" data-hover-easing="easeInOut" data-hover-speed="500" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
-              <img src="/assets/img/general/channel-instagram.jpg" width="760" height="500" alt="" />
-            </div>
-            <div class="team-content-info">
-              <h4 class="mb-5">Instagram</h4>
-              <h4 class="occupation" style="text-transform: lowercase">
-                <span class="icon-instagram"></span>
-                binar_alightingstudio
-              </h4>
-              <a href="#" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">Instagram</a>
-            </div>
-          </div>
-          <div class="grid-item horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:600ms;" data-threshold="0.3">
-            <div class="thumbnail no-margin-bottom" data-hover-easing="easeInOut" data-hover-speed="500" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
-              <img src="/assets/img/general/channel-pinterest.jpg" width="760" height="500" alt="" />
-            </div>
-            <div class="team-content-info">
-              <h4 class="mb-5">Pinterest</h4>
-              <h4 class="occupation" style="text-transform: capitalize">
-                <span class="icon-pinterest"></span> Binar a Lighting
-                Studio
-              </h4>
-              <a href="#" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">Pinterest</a>
-            </div>
-          </div>
-          <div class="grid-item horizon" data-animate-in="preset:slideInUpShort;duration:1000ms;delay:600ms;" data-threshold="0.3">
-            <div class="thumbnail no-margin-bottom" data-hover-easing="easeInOut" data-hover-speed="500" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
-              <img src="/assets/img/general/channel-youtube.jpg" width="760" height="500" alt="" />
-            </div>
-            <div class="team-content-info">
-              <h4 class="mb-5">Youtube</h4>
-              <h4 class="occupation" style="text-transform: capitalize">
-                <span class="icon-youtube"></span> Binar a Lighting
-                Studio
-              </h4>
-              <a href="#" class="button bkg-blue-binar color-blue-binar color-hover-blue-binar mb-mobile-40">Youtube</a>
-            </div>
           </div>
         </div>
       </div>
