@@ -176,21 +176,7 @@
                                         </ul>
                                     </li>
                                     <li class="@yield('nav-about_us')">
-                                        <a href="#" class="contains-sub-menu">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li class="@yield('nav-our_philosophy')">
-                                                <a href="{{ url('/en/about-us/our-philosophy-story') }}">Our Philosophy & Story</a>
-                                            </li>
-                                            <li class="@yield('nav-our_studio')">
-                                                <a href="{{ url('/en/about-us/our-studio') }}">Our Studio</a>
-                                            </li>
-                                            <li class="@yield('nav-privacy_policy')">
-                                                <a href="{{ url('/en/privacy-policy') }}">Privacy Policy</a>
-                                            </li>
-                                            <li class="@yield('nav-terms_condition')">
-                                                <a href="{{ url('/en/terms-condition') }}">Terms & Conditions</a>
-                                            </li>
-                                        </ul>
+                                        <a href="{{ url('/en/about-us/our-philosophy-story') }}">About Us</a>
                                     </li>
                                     <li class="@yield('nav-projects')">
                                         <a href="{{ url('/en/projects')}}">Projects</a>
@@ -210,7 +196,11 @@
                                         <a href="{{ url('/en/lighting101')}}">Lighting 101</a>
                                     </li>
                                     <li>
+<<<<<<< HEAD
                                         <a href="#" class="contains-sub-menu"><span class="icon-language"></span> 🇺🇸</a>
+=======
+                                        <a href="#" class="contains-sub-menu"><span class="icon-language"></span> 🇮🇩</a>
+>>>>>>> c7113cbbb7b7707ce8ef7577135359f0a704f860
                                         <ul class="sub-menu">
                                             <li class="@yield('nav-indonesian')">
                                                 <a>🇲🇨 (Segera Tersedia)</a>
